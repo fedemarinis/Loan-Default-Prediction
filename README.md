@@ -119,10 +119,3 @@ Accuracy alone is not an adequate metric in imbalanced settings.
 * Enhanced feature engineering
 * Ensemble and stacking methods
 * Threshold optimization based on business objectives
-
----
-
-If you want, next step can be:
-
-* even more minimal (1-page ultra-compact version), or
-* slightly more “academic tone” to perfectly match the report wording.
